@@ -4,4 +4,4 @@ function fixTheMeerkat(arr) {
     newArray.push(arr[arr.length-1-element]);
   });
   return newArray;
- }
+}
